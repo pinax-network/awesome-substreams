@@ -1,4 +1,7 @@
-<h1><a href="https://awesome.re"><img src="https://awesome.re/badge-flat.svg" /></a> <a herf="https://substreams.streamingfast.io"><code>Substreams</code></a></h1>
+<h1>
+    <a href="https://awesome.re"><img src="https://awesome.re/badge-flat.svg" /></a> 
+    <a href="https://substreams.streamingfast.io"><code>Substreams</code></a>
+</h1>
 
 ## Contents
 
