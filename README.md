@@ -7,6 +7,8 @@
 
 - [Contents](#contents)
 - [Videos](#videos)
+- [Articles](#articles)
+- [Substreams](#substreams)
 - [Sinks](#sinks)
 - [Protobuf](#protobuf)
 
@@ -19,6 +21,27 @@
 - [Introducing Substreams by Alexandre Bourget](https://www.youtube.com/watch?v=qWxffTKpciU)
 
 **[back to top](#contents)**
+
+## Articles
+
+ *Articles related or describing to Substreams*
+
+- [Parallel Indexing Of Blockchain Data With Substreams](https://messari.notion.site/Parallel-Indexing-Of-Blockchain-Data-With-Substreams-28e1da982a54459b9f928e88777aea9b)
+
+## Substreams
+
+ *Substreams code examples written in Rust*
+
+- [Messari Substreams](https://github.com/messari/substreams)
+  - [Compound V2](https://github.com/messari/substreams/tree/master/compound-v2)
+  - [ENS](https://github.com/messari/substreams/tree/master/ens-names)
+  - [ERC20](https://github.com/messari/substreams/tree/master/erc20-holdings)
+  - [ERC721](https://github.com/messari/substreams/tree/master/erc721)
+  - [ETH Balance](https://github.com/messari/substreams/tree/master/eth-balance)
+  - [Uniswap V2](https://github.com/messari/substreams/tree/master/uniswap-v2)
+- [Pinax Substreams](https://github.com/pinax-network/substreams)
+  - [eosio.token](https://github.com/pinax-network/substreams/tree/develop/substreams/eosio.token)
+  - [eosio.ibc](https://github.com/pinax-network/substreams/tree/develop/substreams/eosio.ibc)
 
 ## Sinks
 
