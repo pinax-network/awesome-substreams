@@ -1,6 +1,4 @@
-<h1>😎 Awesome <a herf="https://substreams.streamingfast.io"><code>Substreams</code></a></h1>
-
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+<h1></a> <a href="https://awesome.re"><img src="https://awesome.re/badge-flat.svg" /></a> <a herf="https://substreams.streamingfast.io"><code>Substreams</code></h1>
 
 ## Contents
 
