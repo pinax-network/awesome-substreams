@@ -15,6 +15,7 @@
  *Articles related or describing to Substreams*
 
 - [Parallel Indexing Of Blockchain Data With Substreams](https://messari.notion.site/Parallel-Indexing-Of-Blockchain-Data-With-Substreams-28e1da982a54459b9f928e88777aea9b)
+- [Substreams: Massively Faster Indexing Performance for Subgraphs](https://thegraph.com/blog/substreams-parallel-processing/)
 
 **[back to top](#contents)**
 
@@ -57,6 +58,7 @@
 
  *Video content related to Substreams*
 
+- [Indexing Improvements via Substreams by Sebastian Siemssen](https://www.youtube.com/watch?v=Nn6k7A-TjVE)
 - [Introducing Substreams by Alexandre Bourget](https://www.youtube.com/watch?v=qWxffTKpciU)
 - [Introducing The Graph Substreams for High-Performance Indexing by Alexandre Bourget
 ](https://www.youtube.com/watch?v=K-nhC2FCB5k&t=506s)
