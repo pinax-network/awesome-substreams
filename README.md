@@ -1,7 +1,5 @@
-<h1>
-    <a href="https://awesome.re"><img src="https://awesome.re/badge-flat.svg" /></a> 
-    <a href="https://substreams.streamingfast.io"><code>Substreams</code></a>
-</h1>
+![awesome-substreams](https://user-images.githubusercontent.com/550895/217890452-86ae6388-6570-4393-8d82-cedf5e783e0e.png)
+[![awesome-badge](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 ## Contents
 
