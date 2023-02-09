@@ -48,8 +48,8 @@
   - [ETH Balance](https://github.com/messari/substreams/tree/master/eth-balance)
   - [Uniswap V2](https://github.com/messari/substreams/tree/master/uniswap-v2)
 - [Pinax Substreams](https://github.com/pinax-network/substreams)
-  - [eosio.ibc](https://github.com/pinax-network/substreams/tree/develop/substreams/eosio.ibc)
-  - [eosio.token](https://github.com/pinax-network/substreams/tree/develop/substreams/eosio.token)
+  - [eosio.ibc](https://github.com/pinax-network/substreams/tree/develop/eosio.ibc)
+  - [eosio.token](https://github.com/pinax-network/substreams/tree/develop/eosio.token)
 
 **[back to top](#contents)**
 
