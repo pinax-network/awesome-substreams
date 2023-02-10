@@ -18,9 +18,9 @@
 
 ## Technology
 
-- [ ] [Substreams Documentation - Substreams is a powerful blockchain indexing technology, developed for The Graph Network.](https://substreams.streamingfast.io)
-- [ ] [Firehose Documentation - Firehose provides a files-based and streaming-first approach to processing blockchain data.](https://firehose.streamingfast.io)
-- [ ] [The Graph - The Graph is an indexing protocol for querying networks like Ethereum and IPFS.](https://thegraph.com/)
+- [ ] [Substreams Documentation](https://substreams.streamingfast.io) - Substreams is a powerful blockchain indexing technology, developed for The Graph Network.
+- [ ] [Firehose Documentation](https://firehose.streamingfast.io) - Firehose provides a files-based and streaming-first approach to processing blockchain data.
+- [ ] [The Graph](https://thegraph.com/) - The Graph is an indexing protocol for querying networks like Ethereum and IPFS.
 
 **[back to top](#contents)**
 
