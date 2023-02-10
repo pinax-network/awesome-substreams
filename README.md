@@ -1,14 +1,24 @@
 ![awesome-substreams](https://user-images.githubusercontent.com/550895/217890452-86ae6388-6570-4393-8d82-cedf5e783e0e.png)
 [![awesome-badge](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
+<!-- omit from toc -->
 ## Contents
 
-- [Contents](#contents)
+- [Technology](#technology)
 - [Articles](#articles)
-- [Protobuf](#protobuf)
 - [Sinks](#sinks)
+- [Protobuf](#protobuf)
 - [Substreams](#substreams)
 - [Videos](#videos)
+- [Twitter](#twitter)
+
+## Technology
+
+- [ ] [Substreams Documentation - Substreams is a powerful blockchain indexing technology, developed for The Graph Network.](https://substreams.streamingfast.io)
+- [ ] [Firehose Documentation - Firehose provides a files-based and streaming-first approach to processing blockchain data.](https://firehose.streamingfast.io)
+- [ ] [The Graph - The Graph is an indexing protocol for querying networks like Ethereum and IPFS.](https://thegraph.com/)
+
+**[back to top](#contents)**
 
 ## Articles
 
@@ -19,21 +29,25 @@
 
 **[back to top](#contents)**
 
+## Sinks
+
+ *Substreams Sinks typically written in GoLang*
+
+- [Prometheus Sink](https://github.com/pinax-network/substreams-sink-prometheus)
+- [MongoDB Sink](https://github.com/streamingfast/substreams-sink-mongodb)
+- [PostgreSQL Sink](https://github.com/streamingfast/substreams-sink-postgres)
+- [Files Sink - Binary application to consume your Substreams and output it's data out to files format (JSON, CSV, etc.)](https://github.com/streamingfast/substreams-sink-files)
+- [Substreams Sink - Golang](https://github.com/streamingfast/substreams-sink)
+
+**[back to top](#contents)**
+
 ## Protobuf
 
  *Substreams commonly used Protobuf messages*
 
 - [DatabaseChanges](https://github.com/streamingfast/substreams-database-change/blob/develop/proto/substreams/sink/database/v1/database.proto)
 - [KVOperations](https://github.com/streamingfast/substreams-sink-kv/blob/main/proto/substreams/sink/kv/v1/kv.proto)
-
-**[back to top](#contents)**
-
-## Sinks
-
- *Substreams Sinks typically written in GoLang*
-
-- [MongoDB Sink](https://github.com/streamingfast/substreams-sink-mongodb)
-- [PostgreSQL Sink](https://github.com/streamingfast/substreams-sink-postgres)
+- [PrometheusOperations](https://github.com/pinax-network/substreams-sink-prometheus/blob/main/proto/substreams/sink/prometheus/v1/prometheus.proto)
 
 **[back to top](#contents)**
 
@@ -62,5 +76,15 @@
 - [Introducing Substreams by Alexandre Bourget](https://www.youtube.com/watch?v=qWxffTKpciU)
 - [Introducing The Graph Substreams for High-Performance Indexing by Alexandre Bourget
 ](https://www.youtube.com/watch?v=K-nhC2FCB5k&t=506s)
+
+**[back to top](#contents)**
+
+## Twitter
+
+ *Twitter accounts related to Substreams technology*
+
+- [The Graph Protocol - The Graph is a web3 protocol for organizing and accessing blockchain data 🧑‍🚀 Official account of The Graph ecosystem 🌐](https://twitter.com/graphprotocol)
+- [StreamingFast - web3 builders & investors. Building massively scalable architecture for streaming blockchain data.](https://twitter.com/streamingfastio)
+- [Pinax - The leading high-speed Firehose provider](https://twitter.com/PinaxNetwork)
 
 **[back to top](#contents)**
