@@ -109,6 +109,12 @@
   - [eosio.token](https://github.com/pinax-network/substreams/tree/develop/eosio.token)
   - [accounts](https://github.com/pinax-network/substreams/tree/develop/accounts)
   - [eosmechanics](https://github.com/pinax-network/substreams/tree/develop/eosmechanics)
+- [StreamingFast Substreams](https://github.com/streamingfast/substreams-playground)
+  - [PancakeSwap Substreams](https://github.com/streamingfast/substreams-playground/tree/master/modules/pancakeswap)
+  - [ETH Token Substreams](https://github.com/streamingfast/substreams-playground/tree/master/modules/eth-token)
+  - [Solana SPL Tokens](https://github.com/streamingfast/substreams-playground/tree/master/modules/sol-spl-tokens)
+  - [Uniswap](https://github.com/streamingfast/substreams-playground/tree/master/modules/uniswap)
+  - [Example substreams consumers (Go, Javascript, Python, Rust)](https://github.com/streamingfast/substreams-playground/tree/master/consumers)
 
 **[back to top](#contents)**
 
