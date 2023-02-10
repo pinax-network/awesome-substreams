@@ -11,6 +11,10 @@
 - [Substreams](#substreams)
 - [Videos](#videos)
 - [Twitter](#twitter)
+- [SDK](#sdk)
+  - [Rust](#rust)
+  - [Python](#python)
+  - [Javascript](#javascript)
 
 ## Technology
 
@@ -89,5 +93,35 @@
 - [StreamingFast](https://twitter.com/streamingfastio) - web3 builders & investors. Building massively scalable architecture for streaming blockchain data.
 - [Pinax](https://twitter.com/PinaxNetwork) - Unleashing the power of blockchain data.
 - [Messari](https://twitter.com/MessariCrypto) - Messari is the leading provider of crypto market intelligence products that help professionals navigate crypto with confidence.
+
+**[back to top](#contents)**
+
+## SDK
+
+ *Software Development Kit related to Substreams*
+
+### Rust
+
+ *Rust libraries related to Substreams*
+
+- [Substreams Rust](https://github.com/streamingfast/substreams-rs) - Substreams is a powerful blockchain indexing technology, developed for The Graph Network.
+- [Substreams for Antelope](https://github.com/pinax-network/substreams-antelope) - This library contains the generated protobuffer for the Antelope blocks as well as helper methods to extract and parse block data.
+- [Antelope Rust](https://github.com/pinax-network/antelope.rs) - Antelope Standard Library for Rust.
+
+**[back to top](#contents)**
+
+### Python
+
+ *Python libraries related to Substreams*
+
+- [PyFirehose](https://github.com/pinax-network/pyfirehose) - Extract bulk and targeted historical blockchain data (powered by Firehose and Substreams)
+
+**[back to top](#contents)**
+
+### Javascript
+
+ *Javascript libraries related to Substreams*
+
+- [Substreams JS](https://github.com/pinax-network/substreams-js) - Substream Javascript consumer library using Node.js Event emitters.
 
 **[back to top](#contents)**
