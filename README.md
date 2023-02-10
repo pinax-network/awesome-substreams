@@ -83,8 +83,8 @@
 
  *Twitter accounts related to Substreams technology*
 
-- [The Graph Protocol - The Graph is a web3 protocol for organizing and accessing blockchain data 🧑‍🚀 Official account of The Graph ecosystem 🌐](https://twitter.com/graphprotocol)
-- [StreamingFast - web3 builders & investors. Building massively scalable architecture for streaming blockchain data.](https://twitter.com/streamingfastio)
-- [Pinax - The leading high-speed Firehose provider](https://twitter.com/PinaxNetwork)
+- [The Graph Protocol](https://twitter.com/graphprotocol) - The Graph is a web3 protocol for organizing and accessing blockchain data 🧑‍🚀 Official account of The Graph ecosystem 🌐
+- [StreamingFast](https://twitter.com/streamingfastio) - web3 builders & investors. Building massively scalable architecture for streaming blockchain data.
+- [Pinax](https://twitter.com/PinaxNetwork) - Unleashing the power of blockchain data.
 
 **[back to top](#contents)**
