@@ -76,6 +76,7 @@
   - [ETH Token Substreams](https://github.com/streamingfast/substreams-playground/tree/master/modules/eth-token)
   - [Solana SPL Tokens](https://github.com/streamingfast/substreams-playground/tree/master/modules/sol-spl-tokens)
   - [Uniswap](https://github.com/streamingfast/substreams-playground/tree/master/modules/uniswap)
+  - [Example substreams consumers (Go, Javascript, Python, Rust)](https://github.com/streamingfast/substreams-playground/tree/master/consumers)
 
 **[back to top](#contents)**
 
