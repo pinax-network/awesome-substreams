@@ -15,6 +15,7 @@
   - [Rust](#rust)
   - [Python](#python)
   - [Javascript](#javascript)
+  - [Golang](#golang)
 
 ## Technology
 
@@ -40,8 +41,7 @@
 - [Prometheus Sink](https://github.com/pinax-network/substreams-sink-prometheus)
 - [MongoDB Sink](https://github.com/streamingfast/substreams-sink-mongodb)
 - [PostgreSQL Sink](https://github.com/streamingfast/substreams-sink-postgres)
-- [Files Sink - Binary application to consume your Substreams and output it's data out to files format (JSON, CSV, etc.)](https://github.com/streamingfast/substreams-sink-files)
-- [Substreams Sink - Golang](https://github.com/streamingfast/substreams-sink)
+- [Files Sink](https://github.com/streamingfast/substreams-sink-files) - Binary application to consume your Substreams and output it's data out to files format (JSON, CSV, etc.)
 
 **[back to top](#contents)**
 
@@ -123,5 +123,13 @@
  *Javascript libraries related to Substreams*
 
 - [Substreams JS](https://github.com/pinax-network/substreams-js) - Substream Javascript consumer library using Node.js Event emitters.
+
+**[back to top](#contents)**
+
+### Golang
+
+ *Golang libraries related to Substreams*
+
+- [Substreams Sink (Golang)](https://github.com/streamingfast/substreams-sink)
 
 **[back to top](#contents)**
