@@ -1,5 +1,8 @@
 ![awesome-substreams](https://user-images.githubusercontent.com/550895/217890452-86ae6388-6570-4393-8d82-cedf5e783e0e.png)
 [![awesome-badge](https://awesome.re/badge-flat.svg)](https://awesome.re)
+[![GitHub stars](https://img.shields.io/github/stars/pinax-network/awesome-substreams.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/pinax-network/awesome-substreams/stargazers/)
+
+![starred](https://user-images.githubusercontent.com/550895/218171448-88fcf27f-2dcd-4d6b-90df-7033ef9184ae.gif)
 
 <!-- omit from toc -->
 ## Contents
