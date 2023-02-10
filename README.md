@@ -65,6 +65,8 @@
 - [Pinax Substreams](https://github.com/pinax-network/substreams)
   - [eosio.ibc](https://github.com/pinax-network/substreams/tree/develop/eosio.ibc)
   - [eosio.token](https://github.com/pinax-network/substreams/tree/develop/eosio.token)
+  - [accounts](https://github.com/pinax-network/substreams/tree/develop/accounts)
+  - [eosmechanics](https://github.com/pinax-network/substreams/tree/develop/eosmechanics)
 
 **[back to top](#contents)**
 
