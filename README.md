@@ -93,8 +93,8 @@
 - [StreamingFast](https://twitter.com/streamingfastio) - web3 builders & investors. Building massively scalable architecture for streaming blockchain data.
 - [Pinax](https://twitter.com/PinaxNetwork) - Unleashing the power of blockchain data.
 - [Messari](https://twitter.com/MessariCrypto) - Messari is the leading provider of crypto market intelligence products that help professionals navigate crypto with confidence.
-- [Alexandre Bourget](https://twitter.com/bourgetalexndre)Co-Founder and CTO at [StreamingFast](http://StreamingFast.io)
-- [Matthew Darwin](https://twitter.com/matthewdarwin)Co-Founder and CIO at [Pinax](https://pinax.network/)
+- [Alexandre Bourget](https://twitter.com/bourgetalexndre) - Co-Founder and CTO at [StreamingFast](http://StreamingFast.io)
+- [Matthew Darwin](https://twitter.com/matthewdarwin) - Co-Founder and CIO at [Pinax](https://pinax.network/)
 
 **[back to top](#contents)**
 
