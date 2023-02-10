@@ -8,8 +8,11 @@
 - [Articles](#articles)
 - [Videos](#videos)
 - [Twitter](#twitter)
+- [Blockchains](#blockchains)
+  - [Substreams](#substreams)
+  - [Firehose](#firehose)
 - [Sinks](#sinks)
-- [Substreams](#substreams)
+- [Substreams Examples](#substreams-examples)
 - [SDK](#sdk)
   - [Rust](#rust)
   - [Python](#python)
@@ -62,6 +65,23 @@
 
 **[back to top](#contents)**
 
+## Blockchains
+
+> Blockchains that support (official & no-official) Substreams/Firehose technology.
+
+### Substreams
+
+- [Substreams Ethereum](https://github.com/streamingfast/substreams-ethereum) - Substreams development kit for Ethereum chains, contains Firehose Block model and helpers as well as utilities for Ethereum ABI encoding/decoding.
+- [Substreams Antelope](https://github.com/pinax-network/substreams-antelope) - This library contains the generated protobuffer for the Antelope blocks as well as helper methods to extract and parse block data.
+
+### Firehose
+
+- [Firehose Ethereum](https://github.com/streamingfast/firehose-ethereum)
+- [Firehose Near](https://github.com/streamingfast/firehose-near)
+- [Firehose Arweave](https://github.com/streamingfast/firehose-arweave) - The firehose integration with the garii
+
+**[back to top](#contents)**
+
 ## Sinks
 
 > Substreams Sinks typically written in GoLang
@@ -73,7 +93,7 @@
 
 **[back to top](#contents)**
 
-## Substreams
+## Substreams Examples
 
 > Substreams code examples written in Rust
 
@@ -103,7 +123,6 @@
 > Rust libraries related to Substreams
 
 - [Substreams Rust](https://github.com/streamingfast/substreams-rs) - Substreams is a powerful blockchain indexing technology, developed for The Graph Network.
-- [Substreams for Antelope](https://github.com/pinax-network/substreams-antelope) - This library contains the generated protobuffer for the Antelope blocks as well as helper methods to extract and parse block data.
 - [Antelope Rust](https://github.com/pinax-network/antelope.rs) - Antelope Standard Library for Rust.
 
 **[back to top](#contents)**
