@@ -144,7 +144,7 @@
 
 > Python libraries related to Substreams
 
-- [PyFirehose](https://github.com/pinax-network/pyfirehose) - Extract bulk and targeted historical blockchain data (powered by Firehose and Substreams)
+- [substreams_firehose](https://github.com/pinax-network/substreams_firehose) - Extract any data from the blockchain using gRPC-enabled endpoints (powered by [**Firehose**](https://firehose.streamingfast.io/) and [**Substreams**](https://substreams.streamingfast.io)).
 
 **[back to top](#contents)**
 
