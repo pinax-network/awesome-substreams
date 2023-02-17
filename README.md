@@ -145,6 +145,7 @@
 > Python libraries related to Substreams
 
 - [substreams_firehose](https://github.com/pinax-network/substreams_firehose) - Extract any data from the blockchain using gRPC-enabled endpoints (powered by [**Firehose**](https://firehose.streamingfast.io/) and [**Substreams**](https://substreams.streamingfast.io)).
+- [substreams-python](https://github.com/messari/substreams-python) - WIP Python Interface for querying via substreams
 
 **[back to top](#contents)**
 
