@@ -22,7 +22,10 @@
   - [Python](#python)
   - [Javascript](#javascript)
   - [Golang](#golang)
+- [Endpoints](#endpoints)
 - [Protobuf](#protobuf)
+  - [Blocks](#blocks)
+  - [Sinks](#sinks-1)
 
 ## Technology
 
@@ -80,15 +83,19 @@
 
 ### Firehose
 
+- [Firehose Overview](https://firehose.streamingfast.io/introduction/firehose-overview)
 - [Firehose Ethereum](https://github.com/streamingfast/firehose-ethereum)
 - [Firehose Near](https://github.com/streamingfast/firehose-near)
-- [Firehose Arweave](https://github.com/streamingfast/firehose-arweave) - The firehose integration with the garii
+- [Firehose Aptos](https://github.com/streamingfast/firehose-aptos)
+- [Firehose Arweave](https://github.com/streamingfast/firehose-arweave) - use `thegarii` as source (The Graph Arweave Integration Implementation)
+- [Firehose Solana](https://github.com/streamingfast/firehose-solana)
+- [Firehose Cosmos](https://github.com/graphprotocol/firehose-cosmos)
 
 **[back to top](#contents)**
 
 ## Sinks
 
-> Substreams Sinks typically written in GoLang
+> Substreams Sinks typically written in GoLang or NodeJS
 
 - [Prometheus Sink](https://github.com/pinax-network/substreams-sink-prometheus)
 - [MongoDB Sink](https://github.com/streamingfast/substreams-sink-mongodb)
@@ -135,6 +142,7 @@
 
 - [Substreams Rust](https://github.com/streamingfast/substreams-rs) - Substreams is a powerful blockchain indexing technology, developed for The Graph Network.
 - [Antelope Rust](https://github.com/pinax-network/antelope.rs) - Antelope Standard Library for Rust.
+- [Substreams Solana](https://github.com/streamingfast/substreams-solana) - Substreams development kit for Solana chains, contains Rust Firehose Block model and helpers
 
 **[back to top](#contents)**
 
@@ -169,12 +177,30 @@
 
 **[back to top](#contents)**
 
+## Endpoints
+
+> Operator's endpoints & chains that support Substreams.
+
+- [StreamingFast endpoints](https://substreams.streamingfast.io/reference-and-specs/chains-and-endpoints#endpoints) - Ethereum,Polygon,BNB,Near,Solana,Arweave,Aptos
+
 ## Protobuf
 
 > Substreams commonly used Protobuf messages
 
+### Blocks
+
+- Ethereum - [`sf.ethereum.type.v2.Block`](https://github.com/streamingfast/firehose-ethereum/blob/develop/proto/sf/ethereum/type/v2/type.proto)
+- ​​NEAR - [`sf.near.type.v1.Block`](https://github.com/streamingfast/firehose-near/blob/develop/proto/sf/near/type/v1/type.proto)
+- ​​Solana - [`sf.solana.type.v1.Block`](https://github.com/streamingfast/firehose-solana/blob/develop/proto/sf/solana/type/v1/type.proto)
+- ​​Cosmos - [`sf.cosmos.type.v1.Block`](https://github.com/figment-networks/proto-cosmos/blob/main/sf/cosmos/type/v1/type.proto)
+- ​​Arweave - [`sf.arweave.type.v1.Block`](https://github.com/streamingfast/firehose-arweave/blob/develop/proto/sf/arweave/type/v1/type.proto)
+- ​​Aptos - [`aptos.extractor.v1.Block`](https://github.com/aptos-labs/aptos-core/blob/main/crates/aptos-protos/proto/aptos/extractor/v1/extractor.proto)
+
+### Sinks
+
 - [DatabaseChanges](https://github.com/streamingfast/substreams-database-change/blob/develop/proto/substreams/sink/database/v1/database.proto)
 - [KVOperations](https://github.com/streamingfast/substreams-sink-kv/blob/main/proto/substreams/sink/kv/v1/kv.proto)
 - [PrometheusOperations](https://github.com/pinax-network/substreams-sink-prometheus/blob/main/proto/substreams/sink/prometheus/v1/prometheus.proto)
+​​
 
 **[back to top](#contents)**
