@@ -3,8 +3,6 @@
 [![LICENSE](https://img.shields.io/github/license/pinax-network/awesome-substreams?color=blue)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/pinax-network/awesome-substreams.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/pinax-network/awesome-substreams/stargazers/)
 
-![starred](https://user-images.githubusercontent.com/550895/218171448-88fcf27f-2dcd-4d6b-90df-7033ef9184ae.gif)
-
 <!-- omit from toc -->
 ## Contents
 
