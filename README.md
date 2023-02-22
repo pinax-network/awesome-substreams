@@ -12,6 +12,10 @@
 - [Articles](#articles)
 - [Videos](#videos)
 - [Twitter](#twitter)
+  - [Protocols](#protocols)
+  - [Companies](#companies)
+  - [Core Contributors](#core-contributors)
+  - [Community Advocates](#community-advocates)
 - [Blockchains](#blockchains)
   - [Substreams](#substreams)
   - [Firehose](#firehose)
@@ -63,12 +67,45 @@
 
 > Twitter accounts related to Substreams technology
 
+### Protocols
 - [The Graph Protocol](https://twitter.com/graphprotocol) - The Graph is a web3 protocol for organizing and accessing blockchain data 🧑‍🚀 Official account of The Graph ecosystem 🌐
+
+### Companies
 - [StreamingFast](https://twitter.com/streamingfastio) - web3 builders & investors. Building massively scalable architecture for streaming blockchain data.
 - [Pinax](https://twitter.com/PinaxNetwork) - Unleashing the power of blockchain data.
 - [Messari](https://twitter.com/MessariCrypto) - Messari is the leading provider of crypto market intelligence products that help professionals navigate crypto with confidence.
+- [GraphOps](https://twitter.com/graphopsxyz) - GraphOps is a blockchain data infrastructure company. We extract, transform and serve blockchain data via The Graph.
+- [Semiotic Labs](https://twitter.com/semioticlabs) - The Graph core dev team. Creators of [ODOS](https://twitter.com/odosprotocol). We specialize in AI/ML, zk-SNARKs, Cryptographic Engineering, and Blockchain Infrastructure.
+
+### Core Contributors
 - [Alexandre Bourget](https://twitter.com/bourgetalexndre) - Co-Founder and CTO at [StreamingFast](http://StreamingFast.io)
-- [Matthew Darwin](https://twitter.com/matthewdarwin) - Co-Founder and CIO at [Pinax](https://pinax.network/)
+- [Matthew Darwin](https://twitter.com/matthewdarwin) - Co-Founder and CIO at [@PinaxNetwork](https://twitter.com/PinaxNetwork)
+- [Brandon Ramirez](https://twitter.com/RezBrandon) - Edge & Node CEO
+- [Eva Beylin](https://twitter.com/evabeylin) - pilot [@graphprotocol](https://twitter.com/graphprotocol) foundation 👩‍🚀
+- [Yaniv Tal](https://twitter.com/yanivgraph) - Founder & CEO [@geobrowser](https://twitter.com/geobrowser). Cofounder [@graphprotocol](https://twitter.com/graphprotocol) [@edgeandnode](https://twitter.com/edgeandnode) [@thehouseofweb3](https://twitter.com/thehouseofweb3). Building a vibrant decentralized future.
+- [Tegan Kline](https://twitter.com/theklineventure) - Co-Founder [@EdgeandNode](https://twitter.com/EdgeandNode), Launched [@GraphProtocol](https://twitter.com/GraphProtocol) | Ex [@Barclays](https://twitter.com/Barclays) & BAML | [@Forbesunder30](https://twitter.com/Forbesunder30) | Punk 2182 | [@theinformation’s](https://twitter.com/theinformation’s) Top 10 in Crypto | Decentralization Maxi
+
+### Community Advocates
+- [GraphAdvocatesDAO](https://twitter.com/GraphAdvocates) - A DAO driving [@graphprotocol](https://twitter.com/graphprotocol) ecosystem growth via community grants & Graph Advocates Program.
+- [GRTiQ](https://twitter.com/grt_iq) - 🎙 Weekly podcast that interviews the people building Web3 & [@graphprotocol](https://twitter.com/graphprotocol).
+- [Graphtronauts](https://twitter.com/graphtronauts) - #GRT #web3 #GRTFAM #TheGraph Independent Community Group 
+- [Graphtronauts Indexer](https://twitter.com/graphtronauts_x) - Graphtronauts is the largest community for long term GRT holders who believe in The Graph’s web3 vision for the future 👨‍🚀
+- [Kyle LaRue](https://twitter.com/KyleLaRue11) - Graph Advocate, produces The Graph Advocates Spotlight
+- [Paolo Diomede](https://twitter.com/pdiomede) - Graph Advocate, Graphtronauts admin, community figure
+- [Andy S](https://twitter.com/German_TheGraph) - Graph Advocate, involved in multiple International communities
+- [Abhay | dapplooker.eth](https://twitter.com/abhayait) - Dapplooker is a growing indexer and active in the community
+- [Derek | DataNexus](https://twitter.com/datanexus) - One of the most active indexers, and a stable community resource
+- [Jim Cousins](https://twitter.com/cryptovestor) - Runs WaveFive indexer, Council member, excellent community “conscience”
+- [Chidubem](https://twitter.com/chidubemw3) - Graph Advocate in Africa, produces Graph Central, active in Advocates DAO
+- [jimxjim.eth](https://twitter.com/jim74255) - Graph Advocate in Africa, very active in the DAO
+- [Tony Kipkemboi](https://twitter.com/tonykipkemboi) - Graph Advocate, New Jersey/Kenya
+- [Christina Mills](https://twitter.com/bombayonchain) - AdvocatesDAO director
+- [GRTDataHub](https://twitter.com/GRTCrypto) - Produces most the stats graphics used across the community, Graphtronaut
+- [Paulieb.eth](https://twitter.com/PaulBarba12) - Active in many community sectors, Graphtronaut
+- [Nick Hansen](https://twitter.com/TwentyTwoNode) - Ecosystem manager at the Foundation, GRTiQ
+- [Kyle Rojas](https://twitter.com/KyleArojas) - Business Dev E&N
+- [Pranav Maheshwari](https://twitter.com/impranavm) - Dev Rel & everything else
+- [Graphrica](https://twitter.com/graphrica) - Graph community in Africa
 
 **[back to top](#contents)**
 
