@@ -88,7 +88,7 @@
 - [GRTiQ](https://twitter.com/grt_iq) - 🎙 Weekly podcast that interviews the people building Web3 & [@graphprotocol](https://twitter.com/graphprotocol).
 - [Graphtronauts](https://twitter.com/graphtronauts) - #GRT #web3 #GRTFAM #TheGraph Independent Community Group 
 - [Graphtronauts Indexer](https://twitter.com/graphtronauts_x) - Graphtronauts is the largest community for long term GRT holders who believe in The Graph’s web3 vision for the future 👨‍🚀
-- [Kyle LaRue](https://twitter.com/KyleLaRue11) - Graph Advocate, produces The Graph Advocates Spotlight
+- [Kyle LaRue](https://twitter.com/KyleLaRue11) - Graph Advocate, produces The Graph Advocates Spotlight as a newsletter
 - [Paolo Diomede](https://twitter.com/pdiomede) - Graph Advocate, Graphtronauts admin, community figure
 - [Andy S](https://twitter.com/German_TheGraph) - Graph Advocate, involved in multiple International communities
 - [Abhay | dapplooker.eth](https://twitter.com/abhayait) - Dapplooker is a growing indexer and active in the community
