@@ -138,6 +138,9 @@
 - [Files Sink](https://github.com/streamingfast/substreams-sink-files) - Binary application to consume your Substreams and output it's data out to files format (JSON, CSV, etc.)
 - [CSV Sink](https://github.com/pinax-network/substreams-sink-csv) - CSV sink module
 - [Winston Sink](https://github.com/pinax-network/substreams-sink-winston) - Logger sink module
+- [Discord Sink](https://github.com/pinax-network/substreams-sink-discord)
+- [Telegram Sink](https://github.com/pinax-network/substreams-sink-telegram)
+- [Slack Sink](https://github.com/pinax-network/substreams-sink-slack)
 
 **[back to top](#contents)**
 
