@@ -1,13 +1,15 @@
+![awesome-substreams](https://user-images.githubusercontent.com/550895/217890452-86ae6388-6570-4393-8d82-cedf5e783e0e.png)
+
 <!-- omit from toc -->
 # Awesome Substreams [![awesome-badge](https://awesome.re/badge-flat.svg)](https://awesome.re) [![LICENSE](https://img.shields.io/github/license/pinax-network/awesome-substreams?color=blue)](LICENSE)
 
-![awesome-substreams](https://user-images.githubusercontent.com/550895/217890452-86ae6388-6570-4393-8d82-cedf5e783e0e.png)
-
-> Carefully curated list of awesome Substreams resources.
+Carefully curated list of awesome Substreams resources. **If you find the list helpful, please make sure to ⭐ star it!**
 
 Substreams is a powerful blockchain indexing technology, developed for **The Graph** Network.
 
 > Substreams enables developers to write Rust modules, composing data streams alongside the community, and provides extremely high-performance indexing by virtue of parallelization, in a streaming-first fashion.
+
+
 
 <!-- omit from toc -->
 ## Contents
