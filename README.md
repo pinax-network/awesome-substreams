@@ -1,7 +1,7 @@
+<!-- omit from toc -->
+# Awesome Substreams [![awesome-badge](https://awesome.re/badge-flat.svg)](https://awesome.re) [![LICENSE](https://img.shields.io/github/license/pinax-network/awesome-substreams?color=blue)](LICENSE)
+
 ![awesome-substreams](https://user-images.githubusercontent.com/550895/217890452-86ae6388-6570-4393-8d82-cedf5e783e0e.png)
-[![awesome-badge](https://awesome.re/badge-flat.svg)](https://awesome.re)
-[![LICENSE](https://img.shields.io/github/license/pinax-network/awesome-substreams?color=blue)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/pinax-network/awesome-substreams.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/pinax-network/awesome-substreams/stargazers/)
 
 > Carefully curated list of awesome Substreams resources.
 
@@ -244,9 +244,9 @@ Substreams is a powerful blockchain indexing technology, developed for [The Grap
 
 ### Sinks
 
-- [EntityChanges](https://github.com/streamingfast/substreams-entity-change)
-- [DatabaseChanges](https://github.com/streamingfast/substreams-database-change)
-- [KVOperations](https://github.com/streamingfast/substreams-sink-kv)
-- [PrometheusOperations](https://github.com/pinax-network/substreams-sink-prometheus)
+- [EntityChanges](https://github.com/streamingfast/substreams-entity-change) - [`sf.substreams.entity.v1`](https://github.com/streamingfast/substreams-entity-change/blob/develop/proto/sf/substreams/entity/v1/entity.proto)
+- [DatabaseChanges](https://github.com/streamingfast/substreams-database-change) - [`sf.substreams.sink.database.v1`](https://github.com/streamingfast/substreams-database-change/blob/develop/proto/substreams/sink/database/v1/database.proto)
+- [KVOperations](https://github.com/streamingfast/substreams-sink-kv) - [`sf.substreams.sink.kv.v1`](https://github.com/streamingfast/substreams-sink-kv/blob/develop/proto/substreams/sink/kv/v1/kv.proto)
+- [PrometheusOperations](https://github.com/pinax-network/substreams-sink-prometheus.rs) - [`sf.substreams.sink.prometheus.v1`](https://github.com/pinax-network/substreams-sink-prometheus.rs/blob/main/proto/substreams/sink/prometheus/v1/prometheus.proto)
 ​​
 **[back to top](#contents)**
