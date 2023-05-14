@@ -3,19 +3,10 @@ name: CI
 on: [push, pull_request]
 
 jobs:
-  tests:
+  Awesome_Lint:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        node-version: [16.x, 18.x, latest]
-
     steps:
-      - uses: actions/checkout@v3
-      - uses: bufbuild/buf-setup-action@v1
-      - name: Use Node.js
-        uses: actions/setup-node@v3
+      - uses: actions/checkout@v2
         with:
-          node-version: ${{ matrix.node-version }}
-          cache: npm
-
-      - run: npx awesome-lint https://github.com/pinax-network/awesome-substreams
+          fetch-depth: 0
+      - run: npx awesome-lint
