@@ -3,6 +3,12 @@
 [![LICENSE](https://img.shields.io/github/license/pinax-network/awesome-substreams?color=blue)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/pinax-network/awesome-substreams.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/pinax-network/awesome-substreams/stargazers/)
 
+> Carefully curated list of awesome Substreams resources.
+
+Substreams is a powerful blockchain indexing technology, developed for [The Graph Network](https://thegraph.com/).
+
+> Substreams enables developers to write Rust modules, composing data streams alongside the community, and provides extremely high-performance indexing by virtue of parallelization, in a streaming-first fashion.
+
 <!-- omit from toc -->
 ## Contents
 
@@ -66,7 +72,7 @@
 > Twitter accounts related to Substreams technology
 
 ### Protocols
-- [The Graph Protocol](https://twitter.com/graphprotocol) - The Graph is a web3 protocol for organizing and accessing blockchain data 🧑‍🚀 Official account of The Graph ecosystem 🌐
+- [The Graph Protocol](https://twitter.com/graphprotocol) - The Graph is a web3 protocol for organizing and accessing blockchain data 🧑‍🚀 Official account of The Graph ecosystem 🌐.
 
 ### Companies
 - [StreamingFast](https://twitter.com/streamingfastio) - web3 builders & investors. Building massively scalable architecture for streaming blockchain data.
@@ -81,7 +87,7 @@
 - [Brandon Ramirez](https://twitter.com/RezBrandon) - Edge & Node CEO.
 - [Eva Beylin](https://twitter.com/evabeylin) - pilot [@graphprotocol](https://twitter.com/graphprotocol) foundation 👩‍🚀.
 - [Yaniv Tal](https://twitter.com/yanivgraph) - Founder & CEO [@geobrowser](https://twitter.com/geobrowser). Cofounder [@graphprotocol](https://twitter.com/graphprotocol) [@edgeandnode](https://twitter.com/edgeandnode) [@thehouseofweb3](https://twitter.com/thehouseofweb3). Building a vibrant decentralized future.
-- [Tegan Kline](https://twitter.com/theklineventure) - Co-Founder [@EdgeandNode](https://twitter.com/EdgeandNode), Launched [@GraphProtocol](https://twitter.com/GraphProtocol) | Ex [@Barclays](https://twitter.com/Barclays) & BAML | [@Forbesunder30](https://twitter.com/Forbesunder30) | Punk 2182 | [@theinformation’s](https://twitter.com/theinformation’s) Top 10 in Crypto | Decentralization Maxi.
+- [Tegan Kline](https://twitter.com/theklineventure) - Co-Founder [@EdgeandNode](https://twitter.com/EdgeandNode), Launched [@GraphProtocol](https://twitter.com/GraphProtocol) | Ex [@Barclays](https://twitter.com/Barclays) & BAML | [@Forbesunder30](https://twitter.com/Forbesunder30) | Punk 2182 | [@theinformation's](https://twitter.com/theinformation’s) Top 10 in Crypto | Decentralization Maxi.
 
 ### Community Advocates
 - [GraphAdvocatesDAO](https://twitter.com/GraphAdvocates) - A DAO driving [@graphprotocol](https://twitter.com/graphprotocol) ecosystem growth via community grants & Graph Advocates Program.
@@ -122,7 +128,7 @@
 - [Firehose Ethereum](https://github.com/streamingfast/firehose-ethereum)
 - [Firehose Near](https://github.com/streamingfast/firehose-near)
 - [Firehose Aptos](https://github.com/streamingfast/firehose-aptos)
-- [Firehose Arweave](https://github.com/streamingfast/firehose-arweave) - use `thegarii` as source (The Graph Arweave Integration Implementation)
+- [Firehose Arweave](https://github.com/streamingfast/firehose-arweave) - use `thegarii` as source (The Graph Arweave Integration Implementation).
 - [Firehose Solana](https://github.com/streamingfast/firehose-solana)
 - [Firehose Cosmos](https://github.com/graphprotocol/firehose-cosmos)
 
@@ -182,7 +188,7 @@
 
 - [Substreams Rust](https://github.com/streamingfast/substreams-rs) - Substreams is a powerful blockchain indexing technology, developed for The Graph Network.
 - [Antelope Rust](https://github.com/pinax-network/antelope.rs) - Antelope Standard Library for Rust.
-- [Substreams Solana](https://github.com/streamingfast/substreams-solana) - Substreams development kit for Solana chains, contains Rust Firehose Block model and helpers
+- [Substreams Solana](https://github.com/streamingfast/substreams-solana) - Substreams development kit for Solana chains, contains Rust Firehose Block model and helpers.
 
 **[back to top](#contents)**
 
@@ -193,7 +199,7 @@
 > Python libraries related to Substreams
 
 - [substreams_firehose](https://github.com/pinax-network/substreams_firehose) - Extract any data from the blockchain using gRPC-enabled endpoints (powered by [**Firehose**](https://firehose.streamingfast.io/) and [**Substreams**](https://substreams.streamingfast.io)).
-- [substreams-python](https://github.com/messari/substreams-python) - WIP Python Interface for querying via substreams
+- [substreams-python](https://github.com/messari/substreams-python) - WIP Python Interface for querying via substreams.
 
 **[back to top](#contents)**
 
@@ -238,9 +244,9 @@
 
 ### Sinks
 
-- [DatabaseChanges](https://github.com/streamingfast/substreams-database-change/blob/develop/proto/substreams/sink/database/v1/database.proto)
-- [KVOperations](https://github.com/streamingfast/substreams-sink-kv/blob/main/proto/substreams/sink/kv/v1/kv.proto)
-- [PrometheusOperations](https://github.com/pinax-network/substreams-sink-prometheus/blob/main/proto/substreams/sink/prometheus/v1/prometheus.proto)
+- [EntityChanges](https://github.com/streamingfast/substreams-entity-change)
+- [DatabaseChanges](https://github.com/streamingfast/substreams-database-change)
+- [KVOperations](https://github.com/streamingfast/substreams-sink-kv)
+- [PrometheusOperations](https://github.com/pinax-network/substreams-sink-prometheus)
 ​​
-
 **[back to top](#contents)**
