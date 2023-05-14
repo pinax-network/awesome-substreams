@@ -22,7 +22,7 @@
 - [SDK](#sdk)
   - [Rust](#rust)
   - [Python](#python)
-  - [Javascript](#javascript)
+  - [JavaScript](#javascript)
   - [Golang](#golang)
 - [Endpoints](#endpoints)
 - [Protobuf](#protobuf)
@@ -76,34 +76,34 @@
 - [Semiotic Labs](https://twitter.com/semioticlabs) - The Graph core dev team. Creators of [ODOS](https://twitter.com/odosprotocol). We specialize in AI/ML, zk-SNARKs, Cryptographic Engineering, and Blockchain Infrastructure.
 
 ### Core Contributors
-- [Alexandre Bourget](https://twitter.com/bourgetalexndre) - Co-Founder and CTO at [StreamingFast](http://StreamingFast.io)
-- [Matthew Darwin](https://twitter.com/matthewdarwin) - Co-Founder and CIO at [@PinaxNetwork](https://twitter.com/PinaxNetwork)
-- [Brandon Ramirez](https://twitter.com/RezBrandon) - Edge & Node CEO
-- [Eva Beylin](https://twitter.com/evabeylin) - pilot [@graphprotocol](https://twitter.com/graphprotocol) foundation 👩‍🚀
+- [Alexandre Bourget](https://twitter.com/bourgetalexndre) - Co-Founder and CTO at [StreamingFast](http://StreamingFast.io).
+- [Matthew Darwin](https://twitter.com/matthewdarwin) - Co-Founder and CIO at [@PinaxNetwork](https://twitter.com/PinaxNetwork).
+- [Brandon Ramirez](https://twitter.com/RezBrandon) - Edge & Node CEO.
+- [Eva Beylin](https://twitter.com/evabeylin) - pilot [@graphprotocol](https://twitter.com/graphprotocol) foundation 👩‍🚀.
 - [Yaniv Tal](https://twitter.com/yanivgraph) - Founder & CEO [@geobrowser](https://twitter.com/geobrowser). Cofounder [@graphprotocol](https://twitter.com/graphprotocol) [@edgeandnode](https://twitter.com/edgeandnode) [@thehouseofweb3](https://twitter.com/thehouseofweb3). Building a vibrant decentralized future.
-- [Tegan Kline](https://twitter.com/theklineventure) - Co-Founder [@EdgeandNode](https://twitter.com/EdgeandNode), Launched [@GraphProtocol](https://twitter.com/GraphProtocol) | Ex [@Barclays](https://twitter.com/Barclays) & BAML | [@Forbesunder30](https://twitter.com/Forbesunder30) | Punk 2182 | [@theinformation’s](https://twitter.com/theinformation’s) Top 10 in Crypto | Decentralization Maxi
+- [Tegan Kline](https://twitter.com/theklineventure) - Co-Founder [@EdgeandNode](https://twitter.com/EdgeandNode), Launched [@GraphProtocol](https://twitter.com/GraphProtocol) | Ex [@Barclays](https://twitter.com/Barclays) & BAML | [@Forbesunder30](https://twitter.com/Forbesunder30) | Punk 2182 | [@theinformation’s](https://twitter.com/theinformation’s) Top 10 in Crypto | Decentralization Maxi.
 
 ### Community Advocates
 - [GraphAdvocatesDAO](https://twitter.com/GraphAdvocates) - A DAO driving [@graphprotocol](https://twitter.com/graphprotocol) ecosystem growth via community grants & Graph Advocates Program.
 - [GRTiQ](https://twitter.com/grt_iq) - 🎙 Weekly podcast that interviews the people building Web3 & [@graphprotocol](https://twitter.com/graphprotocol).
-- [Graphtronauts](https://twitter.com/graphtronauts) - #GRT #web3 #GRTFAM #TheGraph Independent Community Group 
-- [Graphtronauts Indexer](https://twitter.com/graphtronauts_x) - Graphtronauts is the largest community for long term GRT holders who believe in The Graph’s web3 vision for the future 👨‍🚀
-- [Kyle LaRue](https://twitter.com/KyleLaRue11) - Graph Advocate, produces The Graph Advocates Spotlight as a newsletter
-- [Paolo Diomede](https://twitter.com/pdiomede) - Graph Advocate, Graphtronauts admin, community figure
-- [Andy S](https://twitter.com/German_TheGraph) - Graph Advocate, involved in multiple International communities
-- [Abhay | dapplooker.eth](https://twitter.com/abhayait) - Dapplooker is a growing indexer and active in the community
-- [Derek | DataNexus](https://twitter.com/datanexus) - One of the most active indexers, and a stable community resource
-- [Jim Cousins](https://twitter.com/cryptovestor) - Runs WaveFive indexer, Council member, excellent community “conscience”
-- [Chidubem](https://twitter.com/chidubemw3) - Graph Advocate in Africa, produces Graph Central, active in Advocates DAO
-- [jimxjim.eth](https://twitter.com/jim74255) - Graph Advocate in Africa, very active in the DAO
-- [Tony Kipkemboi](https://twitter.com/tonykipkemboi) - Graph Advocate, New Jersey/Kenya
-- [Christina Mills](https://twitter.com/bombayonchain) - AdvocatesDAO director
-- [GRTDataHub](https://twitter.com/GRTCrypto) - Produces most the stats graphics used across the community, Graphtronaut
-- [Paulieb.eth](https://twitter.com/PaulBarba12) - Active in many community sectors, Graphtronaut
-- [Nick Hansen](https://twitter.com/TwentyTwoNode) - Ecosystem manager at the Foundation, GRTiQ
-- [Kyle Rojas](https://twitter.com/KyleArojas) - Business Dev E&N
-- [Pranav Maheshwari](https://twitter.com/impranavm) - Dev Rel & everything else
-- [Graphrica](https://twitter.com/graphrica) - Graph community in Africa
+- [Graphtronauts](https://twitter.com/graphtronauts) - #GRT #web3 #GRTFAM #TheGraph Independent Community Group.
+- [Graphtronauts Indexer](https://twitter.com/graphtronauts_x) - Graphtronauts is the largest community for long term GRT holders who believe in The Graph's web3 vision for the future 👨‍🚀.
+- [Kyle LaRue](https://twitter.com/KyleLaRue11) - Graph Advocate, produces The Graph Advocates Spotlight as a newsletter.
+- [Paolo Diomede](https://twitter.com/pdiomede) - Graph Advocate, Graphtronauts admin, community figure.
+- [Andy S](https://twitter.com/German_TheGraph) - Graph Advocate, involved in multiple International communities.
+- [Abhay | dapplooker.eth](https://twitter.com/abhayait) - Dapplooker is a growing indexer and active in the community.
+- [Derek | DataNexus](https://twitter.com/datanexus) - One of the most active indexers, and a stable community resource.
+- [Jim Cousins](https://twitter.com/cryptovestor) - Runs WaveFive indexer, Council member, excellent community “conscience”.
+- [Chidubem](https://twitter.com/chidubemw3) - Graph Advocate in Africa, produces Graph Central, active in Advocates DAO.
+- [jimxjim.eth](https://twitter.com/jim74255) - Graph Advocate in Africa, very active in the DAO.
+- [Tony Kipkemboi](https://twitter.com/tonykipkemboi) - Graph Advocate, New Jersey/Kenya.
+- [Christina Mills](https://twitter.com/bombayonchain) - AdvocatesDAO director.
+- [GRTDataHub](https://twitter.com/GRTCrypto) - Produces most the stats graphics used across the community, Graphtronaut.
+- [Paulieb.eth](https://twitter.com/PaulBarba12) - Active in many community sectors, Graphtronaut.
+- [Nick Hansen](https://twitter.com/TwentyTwoNode) - Ecosystem manager at the Foundation, GRTiQ.
+- [Kyle Rojas](https://twitter.com/KyleArojas) - Business Dev E&N.
+- [Pranav Maheshwari](https://twitter.com/impranavm) - Dev Rel & everything else.
+- [Graphrica](https://twitter.com/graphrica) - Graph community in Africa.
 
 **[back to top](#contents)**
 
@@ -130,14 +130,14 @@
 
 ## Sinks
 
-> Substreams Sinks typically written in GoLang or NodeJS
+> Substreams Sinks typically written in GoLang or Node.js
 
 - [Prometheus Sink](https://github.com/pinax-network/substreams-sink-prometheus)
 - [MongoDB Sink](https://github.com/streamingfast/substreams-sink-mongodb)
 - [PostgreSQL Sink](https://github.com/streamingfast/substreams-sink-postgres)
-- [Files Sink](https://github.com/streamingfast/substreams-sink-files) - Binary application to consume your Substreams and output it's data out to files format (JSON, CSV, etc.)
-- [CSV Sink](https://github.com/pinax-network/substreams-sink-csv) - CSV sink module
-- [Winston Sink](https://github.com/pinax-network/substreams-sink-winston) - Logger sink module
+- [Files Sink](https://github.com/streamingfast/substreams-sink-files) - Binary application to consume your Substreams and output it's data out to files format (JSON, CSV, etc.).
+- [CSV Sink](https://github.com/pinax-network/substreams-sink-csv) - CSV sink module.
+- [Winston Sink](https://github.com/pinax-network/substreams-sink-winston) - Logger sink module.
 - [Discord Sink](https://github.com/pinax-network/substreams-sink-discord)
 - [Telegram Sink](https://github.com/pinax-network/substreams-sink-telegram)
 - [Slack Sink](https://github.com/pinax-network/substreams-sink-slack)
@@ -166,7 +166,7 @@
   - [ETH Token Substreams](https://github.com/streamingfast/substreams-playground/tree/master/modules/eth-token)
   - [Solana SPL Tokens](https://github.com/streamingfast/substreams-playground/tree/master/modules/sol-spl-tokens)
   - [Uniswap](https://github.com/streamingfast/substreams-playground/tree/master/modules/uniswap)
-  - [Example substreams consumers (Go, Javascript, Python, Rust)](https://github.com/streamingfast/substreams-playground/tree/master/consumers)
+  - [Example substreams consumers (Go, JavaScript, Python, Rust)](https://github.com/streamingfast/substreams-playground/tree/master/consumers)
 
 **[back to top](#contents)**
 
@@ -197,13 +197,13 @@
 
 **[back to top](#contents)**
 
-### Javascript
+### JavaScript
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E)
 
-> Javascript libraries related to Substreams
+> JavaScript libraries related to Substreams
 
-- [Substreams JS](https://github.com/pinax-network/substreams-js) - Substream Javascript consumer library using Node.js Event emitters.
+- [Substreams JS](https://github.com/pinax-network/substreams-js) - Substream JavaScript consumer library using Node.js Event emitters.
 
 **[back to top](#contents)**
 
@@ -221,7 +221,7 @@
 
 > Operator's endpoints & chains that support Substreams.
 
-- [StreamingFast endpoints](https://substreams.streamingfast.io/reference-and-specs/chains-and-endpoints#endpoints) - Ethereum,Polygon,BNB,Near,Solana,Arweave,Aptos
+- [StreamingFast endpoints](https://substreams.streamingfast.io/reference-and-specs/chains-and-endpoints#endpoints) - Ethereum,Polygon,BNB,Near,Solana,Arweave,Aptos.
 
 ## Protobuf
 
