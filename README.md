@@ -215,12 +215,12 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 
 ### Blocks
 
-- Ethereum - [`sf.ethereum.type.v2.Block`](https://github.com/streamingfast/firehose-ethereum/blob/develop/proto/sf/ethereum/type/v2/type.proto)
-- ​​NEAR - [`sf.near.type.v1.Block`](https://github.com/streamingfast/firehose-near/blob/develop/proto/sf/near/type/v1/type.proto)
-- ​​Solana - [`sf.solana.type.v1.Block`](https://github.com/streamingfast/firehose-solana/blob/develop/proto/sf/solana/type/v1/type.proto)
-- ​​Cosmos - [`sf.cosmos.type.v1.Block`](https://github.com/figment-networks/proto-cosmos/blob/main/sf/cosmos/type/v1/type.proto)
-- ​​Arweave - [`sf.arweave.type.v1.Block`](https://github.com/streamingfast/firehose-arweave/blob/develop/proto/sf/arweave/type/v1/type.proto)
-- ​​Aptos - [`aptos.extractor.v1.Block`](https://github.com/aptos-labs/aptos-core/blob/main/crates/aptos-protos/proto/aptos/extractor/v1/extractor.proto)
+- [Ethereum](https://ethereum.org/) - [`sf.ethereum.type.v2.Block`](https://github.com/streamingfast/firehose-ethereum/blob/develop/proto/sf/ethereum/type/v2/type.proto)
+- [​​NEAR](https://near.org/) - [`sf.near.type.v1.Block`](https://github.com/streamingfast/firehose-near/blob/develop/proto/sf/near/type/v1/type.proto)
+- [​​Solana](https://solana.com/) - [`sf.solana.type.v1.Block`](https://github.com/streamingfast/firehose-solana/blob/develop/proto/sf/solana/type/v1/type.proto)
+- [​​Cosmos](https://cosmos.network/) - [`sf.cosmos.type.v1.Block`](https://github.com/figment-networks/proto-cosmos/blob/main/sf/cosmos/type/v1/type.proto)
+- [​​Arweave](https://www.arweave.org/) - [`sf.arweave.type.v1.Block`](https://github.com/streamingfast/firehose-arweave/blob/develop/proto/sf/arweave/type/v1/type.proto)
+- [​​Aptos](https://aptoslabs.com/) - [`aptos.extractor.v1.Block`](https://github.com/aptos-labs/aptos-core/blob/main/crates/aptos-protos/proto/aptos/extractor/v1/extractor.proto)
 
 ### Sinks
 
