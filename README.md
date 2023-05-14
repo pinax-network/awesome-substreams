@@ -5,7 +5,7 @@
 
 > Carefully curated list of awesome Substreams resources.
 
-Substreams is a powerful blockchain indexing technology, developed for [The Graph Network](https://thegraph.com/).
+Substreams is a powerful blockchain indexing technology, developed for **The Graph** Network.
 
 > Substreams enables developers to write Rust modules, composing data streams alongside the community, and provides extremely high-performance indexing by virtue of parallelization, in a streaming-first fashion.
 
@@ -41,8 +41,6 @@ Substreams is a powerful blockchain indexing technology, developed for [The Grap
 - [Firehose Documentation](https://firehose.streamingfast.io) - Firehose provides a files-based and streaming-first approach to processing blockchain data.
 - [The Graph](https://thegraph.com/) - The Graph is an indexing protocol for querying networks like Ethereum and IPFS.
 
-**[back to top](#contents)**
-
 ## Articles
 
 > Articles related or describing to Substreams
@@ -50,11 +48,9 @@ Substreams is a powerful blockchain indexing technology, developed for [The Grap
 - [Parallel Indexing Of Blockchain Data With Substreams](https://messari.notion.site/Parallel-Indexing-Of-Blockchain-Data-With-Substreams-28e1da982a54459b9f928e88777aea9b)
 - [Substreams: Massively Faster Indexing Performance for Subgraphs](https://thegraph.com/blog/substreams-parallel-processing/)
 
-**[back to top](#contents)**
-
 ## Videos
 
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) 
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
 > Video content related to Substreams
 
@@ -62,8 +58,6 @@ Substreams is a powerful blockchain indexing technology, developed for [The Grap
 - [Introducing Substreams by Alexandre Bourget](https://www.youtube.com/watch?v=qWxffTKpciU)
 - [Introducing The Graph Substreams for High-Performance Indexing by Alexandre Bourget
 ](https://www.youtube.com/watch?v=K-nhC2FCB5k&t=506s)
-
-**[back to top](#contents)**
 
 ## Twitter
 
@@ -80,18 +74,20 @@ Substreams is a powerful blockchain indexing technology, developed for [The Grap
 - [Messari](https://twitter.com/MessariCrypto) - Messari is the leading provider of crypto market intelligence products that help professionals navigate crypto with confidence.
 - [GraphOps](https://twitter.com/graphopsxyz) - GraphOps is a blockchain data infrastructure company. We extract, transform and serve blockchain data via The Graph.
 - [Semiotic Labs](https://twitter.com/semioticlabs) - The Graph core dev team. Creators of [ODOS](https://twitter.com/odosprotocol). We specialize in AI/ML, zk-SNARKs, Cryptographic Engineering, and Blockchain Infrastructure.
+- [Geo Browser](https://twitter.com/geobrowser) - A web3 browser and knowledge graph app built on The Graph protocol.
+- [House of Web3](https://twitter.com/thehouseofweb3) - For web3 pioneers and those who contribute knowledge, education, and code to the community at large.
 
 ### Core Contributors
-- [Alexandre Bourget](https://twitter.com/bourgetalexndre) - Co-Founder and CTO at [StreamingFast](http://StreamingFast.io).
-- [Matthew Darwin](https://twitter.com/matthewdarwin) - Co-Founder and CIO at [@PinaxNetwork](https://twitter.com/PinaxNetwork).
+- [Alexandre Bourget](https://twitter.com/bourgetalexndre) - Co-Founder and CTO at **StreamingFast**.
+- [Matthew Darwin](https://twitter.com/matthewdarwin) - Co-Founder and CIO at **Pinax**.
 - [Brandon Ramirez](https://twitter.com/RezBrandon) - Edge & Node CEO.
-- [Eva Beylin](https://twitter.com/evabeylin) - pilot [@graphprotocol](https://twitter.com/graphprotocol) foundation 👩‍🚀.
-- [Yaniv Tal](https://twitter.com/yanivgraph) - Founder & CEO [@geobrowser](https://twitter.com/geobrowser). Cofounder [@graphprotocol](https://twitter.com/graphprotocol) [@edgeandnode](https://twitter.com/edgeandnode) [@thehouseofweb3](https://twitter.com/thehouseofweb3). Building a vibrant decentralized future.
-- [Tegan Kline](https://twitter.com/theklineventure) - Co-Founder [@EdgeandNode](https://twitter.com/EdgeandNode), Launched [@GraphProtocol](https://twitter.com/GraphProtocol) | Ex [@Barclays](https://twitter.com/Barclays) & BAML | [@Forbesunder30](https://twitter.com/Forbesunder30) | Punk 2182 | [@theinformation's](https://twitter.com/theinformation’s) Top 10 in Crypto | Decentralization Maxi.
+- [Eva Beylin](https://twitter.com/evabeylin) - pilot **The Graph** foundation 👩‍🚀.
+- [Yaniv Tal](https://twitter.com/yanivgraph) - Founder & CEO **Geo**. Cofounder **The Graph**, **Edge & Node** & **House of Web3**. Building a vibrant decentralized future.
+- [Tegan Kline](https://twitter.com/theklineventure) - Co-Founder **Edge & Node**, Launched **The Graph** | Ex **Barclays** & BAML.
 
 ### Community Advocates
-- [GraphAdvocatesDAO](https://twitter.com/GraphAdvocates) - A DAO driving [@graphprotocol](https://twitter.com/graphprotocol) ecosystem growth via community grants & Graph Advocates Program.
-- [GRTiQ](https://twitter.com/grt_iq) - 🎙 Weekly podcast that interviews the people building Web3 & [@graphprotocol](https://twitter.com/graphprotocol).
+- [GraphAdvocatesDAO](https://twitter.com/GraphAdvocates) - A DAO driving **The Graph** ecosystem growth via community grants & Graph Advocates Program.
+- [GRTiQ](https://twitter.com/grt_iq) - 🎙 Weekly podcast that interviews the people building Web3 & **The Graph**.
 - [Graphtronauts](https://twitter.com/graphtronauts) - #GRT #web3 #GRTFAM #TheGraph Independent Community Group.
 - [Graphtronauts Indexer](https://twitter.com/graphtronauts_x) - Graphtronauts is the largest community for long term GRT holders who believe in The Graph's web3 vision for the future 👨‍🚀.
 - [Kyle LaRue](https://twitter.com/KyleLaRue11) - Graph Advocate, produces The Graph Advocates Spotlight as a newsletter.
@@ -110,8 +106,6 @@ Substreams is a powerful blockchain indexing technology, developed for [The Grap
 - [Kyle Rojas](https://twitter.com/KyleArojas) - Business Dev E&N.
 - [Pranav Maheshwari](https://twitter.com/impranavm) - Dev Rel & everything else.
 - [Graphrica](https://twitter.com/graphrica) - Graph community in Africa.
-
-**[back to top](#contents)**
 
 ## Blockchains
 
@@ -132,8 +126,6 @@ Substreams is a powerful blockchain indexing technology, developed for [The Grap
 - [Firehose Solana](https://github.com/streamingfast/firehose-solana)
 - [Firehose Cosmos](https://github.com/graphprotocol/firehose-cosmos)
 
-**[back to top](#contents)**
-
 ## Sinks
 
 > Substreams Sinks typically written in GoLang or Node.js
@@ -147,8 +139,6 @@ Substreams is a powerful blockchain indexing technology, developed for [The Grap
 - [Discord Sink](https://github.com/pinax-network/substreams-sink-discord)
 - [Telegram Sink](https://github.com/pinax-network/substreams-sink-telegram)
 - [Slack Sink](https://github.com/pinax-network/substreams-sink-slack)
-
-**[back to top](#contents)**
 
 ## Substreams Examples
 
@@ -174,8 +164,6 @@ Substreams is a powerful blockchain indexing technology, developed for [The Grap
   - [Uniswap](https://github.com/streamingfast/substreams-playground/tree/master/modules/uniswap)
   - [Example substreams consumers (Go, JavaScript, Python, Rust)](https://github.com/streamingfast/substreams-playground/tree/master/consumers)
 
-**[back to top](#contents)**
-
 ## SDK
 
 > Software Development Kit related to Substreams
@@ -190,18 +178,14 @@ Substreams is a powerful blockchain indexing technology, developed for [The Grap
 - [Antelope Rust](https://github.com/pinax-network/antelope.rs) - Antelope Standard Library for Rust.
 - [Substreams Solana](https://github.com/streamingfast/substreams-solana) - Substreams development kit for Solana chains, contains Rust Firehose Block model and helpers.
 
-**[back to top](#contents)**
-
 ### Python
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 > Python libraries related to Substreams
 
-- [substreams_firehose](https://github.com/pinax-network/substreams_firehose) - Extract any data from the blockchain using gRPC-enabled endpoints (powered by [**Firehose**](https://firehose.streamingfast.io/) and [**Substreams**](https://substreams.streamingfast.io)).
+- [substreams_firehose](https://github.com/pinax-network/substreams_firehose) - Extract any data from the blockchain using gRPC-enabled endpoints (powered by **Firehose** and **Substreams**).
 - [substreams-python](https://github.com/messari/substreams-python) - WIP Python Interface for querying via substreams.
-
-**[back to top](#contents)**
 
 ### JavaScript
 
@@ -211,8 +195,6 @@ Substreams is a powerful blockchain indexing technology, developed for [The Grap
 
 - [Substreams JS](https://github.com/pinax-network/substreams-js) - Substream JavaScript consumer library using Node.js Event emitters.
 
-**[back to top](#contents)**
-
 ### Golang
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -220,8 +202,6 @@ Substreams is a powerful blockchain indexing technology, developed for [The Grap
 > Golang libraries related to Substreams
 
 - [Substreams Sink (Golang)](https://github.com/streamingfast/substreams-sink)
-
-**[back to top](#contents)**
 
 ## Endpoints
 
@@ -248,5 +228,3 @@ Substreams is a powerful blockchain indexing technology, developed for [The Grap
 - [DatabaseChanges](https://github.com/streamingfast/substreams-database-change) - [`sf.substreams.sink.database.v1`](https://github.com/streamingfast/substreams-database-change/blob/develop/proto/substreams/sink/database/v1/database.proto)
 - [KVOperations](https://github.com/streamingfast/substreams-sink-kv) - [`sf.substreams.sink.kv.v1`](https://github.com/streamingfast/substreams-sink-kv/blob/develop/proto/substreams/sink/kv/v1/kv.proto)
 - [PrometheusOperations](https://github.com/pinax-network/substreams-sink-prometheus.rs) - [`sf.substreams.sink.prometheus.v1`](https://github.com/pinax-network/substreams-sink-prometheus.rs/blob/main/proto/substreams/sink/prometheus/v1/prometheus.proto)
-​​
-**[back to top](#contents)**
