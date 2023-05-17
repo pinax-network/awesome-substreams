@@ -125,6 +125,7 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 - [Firehose Arweave](https://github.com/streamingfast/firehose-arweave) - use `thegarii` as source (The Graph Arweave Integration Implementation).
 - [Firehose Solana](https://github.com/streamingfast/firehose-solana)
 - [Firehose Cosmos](https://github.com/graphprotocol/firehose-cosmos)
+- [Firehose Sui](https://github.com/ticketland-io/sui-sf-indexer)
 
 ## Sinks
 
