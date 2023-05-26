@@ -58,6 +58,13 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 - [Introducing Substreams by Alexandre Bourget](https://www.youtube.com/watch?v=qWxffTKpciU)
 - [Introducing The Graph Substreams for High-Performance Indexing by Alexandre Bourget
 ](https://www.youtube.com/watch?v=K-nhC2FCB5k&t=506s)
+- [Advocating for Firehose and Substreams by Matthew Darwin of Pinax](https://youtu.be/dzCbJ2fpckA)
+
+
+> Substreams Unleashed Demo Series
+
+- [Substreams for Google Sheets with Étienne Donneger](https://youtu.be/fwLLolKvjHs)
+- [Substreams powered open-source NFT Hub with Mathieu Lefebvre](https://youtu.be/oIgYJxwAihs)
 
 ## Twitter
 
