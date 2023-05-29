@@ -215,7 +215,7 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 
 > Operator's endpoints & chains that support Substreams.
 
-- [StreamingFast endpoints](https://substreams.streamingfast.io/reference-and-specs/chains-and-endpoints#endpoints) - Ethereum,Polygon,BNB,Near,Solana,Arweave,Aptos.
+- [StreamingFast endpoints](https://substreams.streamingfast.io/reference-and-specs/chains-and-endpoints#endpoints) - Ethereum, Polygon, BNB, Near, Solana, Arweave, Aptos.
 
 ## Protobuf
 
