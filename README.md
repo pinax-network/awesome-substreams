@@ -58,6 +58,13 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 - [Introducing Substreams by Alexandre Bourget](https://www.youtube.com/watch?v=qWxffTKpciU)
 - [Introducing The Graph Substreams for High-Performance Indexing by Alexandre Bourget
 ](https://www.youtube.com/watch?v=K-nhC2FCB5k&t=506s)
+- [Advocating for Firehose and Substreams by Matthew Darwin of Pinax](https://youtu.be/dzCbJ2fpckA)
+
+
+> Substreams Unleashed Demo Series
+
+- [Substreams for Google Sheets with Étienne Donneger](https://youtu.be/fwLLolKvjHs)
+- [Substreams powered open-source NFT Hub with Mathieu Lefebvre](https://youtu.be/oIgYJxwAihs)
 
 ## Twitter
 
@@ -134,6 +141,7 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 - [Prometheus Sink](https://github.com/pinax-network/substreams-sink-prometheus)
 - [MongoDB Sink](https://github.com/streamingfast/substreams-sink-mongodb)
 - [PostgreSQL Sink](https://github.com/streamingfast/substreams-sink-postgres)
+- [ClickHouse Sink](https://github.com/aleno-ai/substreams-sink-clickhouse)
 - [Files Sink](https://github.com/streamingfast/substreams-sink-files) - Binary application to consume your Substreams and output it's data out to files format (JSON, CSV, etc.).
 - [CSV Sink](https://github.com/pinax-network/substreams-sink-csv) - CSV sink module.
 - [Winston Sink](https://github.com/pinax-network/substreams-sink-winston) - Logger sink module.
@@ -208,7 +216,7 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 
 > Operator's endpoints & chains that support Substreams.
 
-- [StreamingFast endpoints](https://substreams.streamingfast.io/reference-and-specs/chains-and-endpoints#endpoints) - Ethereum,Polygon,BNB,Near,Solana,Arweave,Aptos.
+- [StreamingFast endpoints](https://substreams.streamingfast.io/reference-and-specs/chains-and-endpoints#endpoints) - Ethereum, Polygon, BNB, Near, Solana, Arweave, Aptos.
 
 ## Protobuf
 
