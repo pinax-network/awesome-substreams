@@ -47,6 +47,7 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 
 - [Parallel Indexing Of Blockchain Data With Substreams](https://messari.notion.site/Parallel-Indexing-Of-Blockchain-Data-With-Substreams-28e1da982a54459b9f928e88777aea9b)
 - [Substreams: Massively Faster Indexing Performance for Subgraphs](https://thegraph.com/blog/substreams-parallel-processing/)
+- [Substreams: Unlocking Lightning-Fast Indexing of Blockchain Data](https://subgraphdev.hashnode.dev/substreams-unlocking-lightning-fast-indexing-of-blockchain-data)
 
 ## Videos
 
@@ -113,6 +114,7 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 - [Kyle Rojas](https://twitter.com/KyleArojas) - Business Dev E&N.
 - [Pranav Maheshwari](https://twitter.com/impranavm) - Dev Rel & everything else.
 - [Graphrica](https://twitter.com/graphrica) - Graph community in Africa.
+- [Ujjwal Thakur](https://twitter.com/subgraphdev) -  Graph Advocate,  Education & Training Lead   [The Graph India](https://twitter.com/TheGraphIndia)
 
 ## Blockchains
 
