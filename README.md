@@ -24,8 +24,9 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
   - [Substreams](#substreams)
   - [Firehose](#firehose)
 - [Sinks](#sinks)
-- [Tools](#tools)
-- [Examples](#substreams-examples)
+- [Substreams Tools](#substreams-tools)
+- [Substreams Examples](#substreams-examples)
+- [Learning Rust](#learning-rust)
 - [SDK](#sdk)
   - [Rust](#rust)
   - [Python](#python)
@@ -34,7 +35,7 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 - [Endpoints](#endpoints)
 - [Protobuf](#protobuf)
   - [Blocks](#blocks)
-  - [Sinks](#sinks-1)
+  - [Sinks](#sinks)
 
 ## Technology
 
@@ -186,6 +187,13 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
   - [Uniswap](https://github.com/streamingfast/substreams-playground/tree/master/modules/uniswap)
   - [Example substreams consumers (Go, JavaScript, Python, Rust)](https://github.com/streamingfast/substreams-playground/tree/master/consumers)
 
+## Learning Rust
+
+- [Effective Rust - 35 Specific Ways to Improve Your Rust Code](https://www.lurklurk.org/effective-rust/)
+- [Rust Lang Book](https://doc.rust-lang.org/book/foreword.html)
+- [Rust Tutorial #1 - Introduction To Rust Programming](https://www.youtube.com/watch?v=T_KrYLW4jw8&list=PLzMcBGfZo4-nyLTlSRBvo0zjSnCnqjHYQ)
+- [No Boilerplate - Fast technical videos](https://www.youtube.com/@NoBoilerplate)
+
 ## SDK
 
 > Software Development Kit related to Substreams
@@ -250,3 +258,4 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 - [DatabaseChanges](https://github.com/streamingfast/substreams-database-change) - [`sf.substreams.sink.database.v1`](https://github.com/streamingfast/substreams-database-change/blob/develop/proto/substreams/sink/database/v1/database.proto)
 - [KVOperations](https://github.com/streamingfast/substreams-sink-kv) - [`sf.substreams.sink.kv.v1`](https://github.com/streamingfast/substreams-sink-kv/blob/develop/proto/substreams/sink/kv/v1/kv.proto)
 - [PrometheusOperations](https://github.com/pinax-network/substreams-sink-prometheus.rs) - [`sf.substreams.sink.prometheus.v1`](https://github.com/pinax-network/substreams-sink-prometheus.rs/blob/main/proto/substreams/sink/prometheus/v1/prometheus.proto)
+- [`soulbound_modules` - Hotdog Powered 🌭](https://github.com/MercuricChloride/substreams_module_repo)
