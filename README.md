@@ -24,7 +24,8 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
   - [Substreams](#substreams)
   - [Firehose](#firehose)
 - [Sinks](#sinks)
-- [Substreams Examples](#substreams-examples)
+- [Tools](#tools)
+- [Examples](#substreams-examples)
 - [SDK](#sdk)
   - [Rust](#rust)
   - [Python](#python)
@@ -60,12 +61,11 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 - [Introducing The Graph Substreams for High-Performance Indexing by Alexandre Bourget
 ](https://www.youtube.com/watch?v=K-nhC2FCB5k&t=506s)
 - [Advocating for Firehose and Substreams by Matthew Darwin of Pinax](https://youtu.be/dzCbJ2fpckA)
-
-
-> Substreams Unleashed Demo Series
-
-- [Substreams for Google Sheets with Étienne Donneger](https://youtu.be/fwLLolKvjHs)
-- [Substreams powered open-source NFT Hub with Mathieu Lefebvre](https://youtu.be/oIgYJxwAihs)
+- House of Web3
+  - [Substreams Demystified: A Practitioner's Guide to High-Performance Blockchain Indexing (Soulbound Labs)](https://www.youtube.com/watch?v=fogh2D-vpzg)
+- Substreams Unleashed Demo Series
+  - [Substreams for Google Sheets with Étienne Donneger](https://youtu.be/fwLLolKvjHs)
+  - [Substreams powered open-source NFT Hub with Mathieu Lefebvre](https://youtu.be/oIgYJxwAihs)
 
 ## Twitter
 
@@ -74,9 +74,11 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 > Twitter accounts related to Substreams technology
 
 ### Protocols
+
 - [The Graph Protocol](https://twitter.com/graphprotocol) - The Graph is a web3 protocol for organizing and accessing blockchain data 🧑‍🚀 Official account of The Graph ecosystem 🌐.
 
 ### Companies
+
 - [StreamingFast](https://twitter.com/streamingfastio) - web3 builders & investors. Building massively scalable architecture for streaming blockchain data.
 - [Pinax](https://twitter.com/PinaxNetwork) - Unleashing the power of blockchain data.
 - [Messari](https://twitter.com/MessariCrypto) - Messari is the leading provider of crypto market intelligence products that help professionals navigate crypto with confidence.
@@ -84,8 +86,10 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 - [Semiotic Labs](https://twitter.com/semioticlabs) - The Graph core dev team. Creators of [ODOS](https://twitter.com/odosprotocol). We specialize in AI/ML, zk-SNARKs, Cryptographic Engineering, and Blockchain Infrastructure.
 - [Geo Browser](https://twitter.com/geobrowser) - A web3 browser and knowledge graph app built on The Graph protocol.
 - [House of Web3](https://twitter.com/thehouseofweb3) - For web3 pioneers and those who contribute knowledge, education, and code to the community at large.
+- [Soulbound Labs](https://soulbound.xyz/) - Building dApps shouldn't be painful. Soulbound Studio makes it easy. No coding required.
 
 ### Core Contributors
+
 - [Alexandre Bourget](https://twitter.com/bourgetalexndre) - Co-Founder and CTO at **StreamingFast**.
 - [Matthew Darwin](https://twitter.com/matthewdarwin) - Co-Founder and CIO at **Pinax**.
 - [Brandon Ramirez](https://twitter.com/RezBrandon) - Edge & Node CEO.
@@ -94,6 +98,7 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 - [Tegan Kline](https://twitter.com/theklineventure) - Co-Founder **Edge & Node**, Launched **The Graph** | Ex **Barclays** & BAML.
 
 ### Community Advocates
+
 - [GraphAdvocatesDAO](https://twitter.com/GraphAdvocates) - A DAO driving **The Graph** ecosystem growth via community grants & Graph Advocates Program.
 - [GRTiQ](https://twitter.com/grt_iq) - 🎙 Weekly podcast that interviews the people building Web3 & **The Graph**.
 - [Graphtronauts](https://twitter.com/graphtronauts) - #GRT #web3 #GRTFAM #TheGraph Independent Community Group.
@@ -136,7 +141,7 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 - [Firehose Cosmos](https://github.com/graphprotocol/firehose-cosmos)
 - [Firehose Sui](https://github.com/ticketland-io/sui-sf-indexer)
 
-## Sinks
+## Substreams Sinks
 
 > Substreams Sinks typically written in GoLang or Node.js
 
