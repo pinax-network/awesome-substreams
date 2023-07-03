@@ -151,6 +151,12 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 - [Telegram Sink](https://github.com/pinax-network/substreams-sink-telegram)
 - [Slack Sink](https://github.com/pinax-network/substreams-sink-slack)
 
+## Substreams Tools
+
+> Tools related to Substreams
+
+- [Substreams Browser](https://substreams.vercel.app/) - Substreams Browser is a tool to help you explore the Substreams data.
+
 ## Substreams Examples
 
 > Substreams code examples written in Rust
