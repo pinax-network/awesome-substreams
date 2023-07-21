@@ -87,7 +87,7 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 - [Semiotic Labs](https://twitter.com/semioticlabs) - The Graph core dev team. Creators of [ODOS](https://twitter.com/odosprotocol). We specialize in AI/ML, zk-SNARKs, Cryptographic Engineering, and Blockchain Infrastructure.
 - [Geo Browser](https://twitter.com/geobrowser) - A web3 browser and knowledge graph app built on The Graph protocol.
 - [House of Web3](https://twitter.com/thehouseofweb3) - For web3 pioneers and those who contribute knowledge, education, and code to the community at large.
-- [Soulbound Labs](https://soulbound.xyz/) - Building dApps shouldn't be painful. Soulbound Studio makes it easy. No coding required.
+- [Spyglass Pirate Collective](https://spygpc.com) - Delightfully simple web3 analytics powered by substreams.
 
 ### Core Contributors
 
