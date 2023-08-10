@@ -67,7 +67,8 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 - Substreams Unleashed Demo Series
   - [Substreams for Google Sheets with Étienne Donneger](https://youtu.be/fwLLolKvjHs)
   - [Substreams powered open-source NFT Hub with Mathieu Lefebvre](https://youtu.be/oIgYJxwAihs)
-
+  - [Introducing the Substreams-Sink-Library with Charles Morin](https://youtu.be/DZ_0Mt49OLo)
+    
 ## Twitter
 
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
