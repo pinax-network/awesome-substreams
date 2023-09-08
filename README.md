@@ -62,6 +62,7 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 - [Introducing The Graph Substreams for High-Performance Indexing by Alexandre Bourget
 ](https://www.youtube.com/watch?v=K-nhC2FCB5k&t=506s)
 - [Advocating for Firehose and Substreams by Matthew Darwin of Pinax](https://youtu.be/dzCbJ2fpckA)
+- [Substreams and Subgraph Quickstart by Yaro Shkvorets of Pinax](https://www.youtube.com/watch?v=sLXbMKeWKM4)
 - House of Web3
   - [Substreams Demystified: A Practitioner's Guide to High-Performance Blockchain Indexing (Soulbound Labs)](https://www.youtube.com/watch?v=fogh2D-vpzg)
 - Substreams Unleashed Demo Series
