@@ -188,6 +188,9 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
   - [Solana SPL Tokens](https://github.com/streamingfast/substreams-playground/tree/master/modules/sol-spl-tokens)
   - [Uniswap](https://github.com/streamingfast/substreams-playground/tree/master/modules/uniswap)
   - [Example substreams consumers (Go, JavaScript, Python, Rust)](https://github.com/streamingfast/substreams-playground/tree/master/consumers)
+- [BuildersDAO Substreams](https://github.com/Graph-BuildersDAO/substreams)
+  - [Chainlink Prices](https://github.com/Graph-BuildersDAO/substreams/tree/master/chainlink-prices)
+  - [ERC1155](https://github.com/Graph-BuildersDAO/substreams/tree/master/erc1155)
 
 ## Learning Rust
 
