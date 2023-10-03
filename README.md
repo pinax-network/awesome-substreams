@@ -111,7 +111,7 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 - [Andy S](https://twitter.com/German_TheGraph) - Graph Advocate, involved in multiple International communities.
 - [Abhay | dapplooker.eth](https://twitter.com/abhayait) - Dapplooker is a growing indexer and active in the community.
 - [Derek | DataNexus](https://twitter.com/datanexus) - One of the most active indexers, and a stable community resource.
-- [Jim Cousins](https://twitter.com/cryptovestor) - Runs WaveFive indexer, Council member, excellent community “conscience”.
+- [Jim Cousins](https://twitter.com/cryptovestor) - Runs WaveFive indexer, excellent community “conscience”.
 - [Chidubem](https://twitter.com/chidubemw3) - Graph Advocate in Africa, produces Graph Central, active in Advocates DAO.
 - [jimxjim.eth](https://twitter.com/jim74255) - Graph Advocate in Africa, very active in the DAO.
 - [Tony Kipkemboi](https://twitter.com/tonykipkemboi) - Graph Advocate, New Jersey/Kenya.
