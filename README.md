@@ -194,6 +194,7 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 
 ## Learning Rust
 
+- [Rustlings - 🦀 Small exercises to get you used to reading and writing Rust code!](https://rustlings.cool/)
 - [Effective Rust - 35 Specific Ways to Improve Your Rust Code](https://www.lurklurk.org/effective-rust/)
 - [Rust Lang Book](https://doc.rust-lang.org/book/foreword.html)
 - [Rust Tutorial #1 - Introduction To Rust Programming](https://www.youtube.com/watch?v=T_KrYLW4jw8&list=PLzMcBGfZo4-nyLTlSRBvo0zjSnCnqjHYQ)
