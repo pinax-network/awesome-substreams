@@ -69,6 +69,7 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
   - [Substreams for Google Sheets with Étienne Donneger](https://youtu.be/fwLLolKvjHs)
   - [Substreams powered open-source NFT Hub with Mathieu Lefebvre](https://youtu.be/oIgYJxwAihs)
   - [Introducing the Substreams-Sink-Library with Charles Morin](https://youtu.be/DZ_0Mt49OLo)
+  - [Substream Sink Library: Revolutionizing Data Routing with Charles Morin](https://www.youtube.com/watch?v=OIwcN8TL5d4)
     
 ## Twitter
 
@@ -230,6 +231,7 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 > JavaScript libraries related to Substreams
 
 - [Substreams JS](https://github.com/pinax-network/substreams-js) - Substream JavaScript consumer library using Node.js Event emitters.
+- [substreams-sink](https://github.com/pinax-network/substreams-sink) - JavaScript/TypeScript toolset to facilitate substreams sink development.
 
 ### Golang
 
