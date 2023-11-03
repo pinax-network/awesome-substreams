@@ -165,6 +165,7 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 > Tools related to Substreams
 
 - [Substreams Browser](https://substreams.vercel.app/) - Substreams Browser is a tool to help you explore the Substreams data.
+- [Substreams Registry](https://substreams.dev/) - Substreams registry contains a list of useful Substreams.
 
 ## Substreams Examples
 
