@@ -40,6 +40,8 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 ## Technology
 
 - [Substreams Documentation](https://substreams.streamingfast.io) - Substreams is a powerful blockchain indexing technology, developed for The Graph Network.
+- [Substreams Glossary](https://substreams.streamingfast.io/quick-access/glossary)
+- [Substreams.Dev - Registry for Available Substreams](https://substreams.dev/)
 - [Firehose Documentation](https://firehose.streamingfast.io) - Firehose provides a files-based and streaming-first approach to processing blockchain data.
 - [The Graph](https://thegraph.com/) - The Graph is an indexing protocol for querying networks like Ethereum and IPFS.
 
@@ -50,6 +52,8 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 - [Parallel Indexing Of Blockchain Data With Substreams](https://messari.notion.site/Parallel-Indexing-Of-Blockchain-Data-With-Substreams-28e1da982a54459b9f928e88777aea9b)
 - [Substreams: Massively Faster Indexing Performance for Subgraphs](https://thegraph.com/blog/substreams-parallel-processing/)
 - [Substreams: Unlocking Lightning-Fast Indexing of Blockchain Data](https://subgraphdev.hashnode.dev/substreams-unlocking-lightning-fast-indexing-of-blockchain-data)
+- [Tips and Tricks for Developing Substreams](https://streamingfastio.medium.com/tips-and-tricks-for-developing-substreams-94cfc4cacbaa)
+- [Unveiling Substreams.dev: A comprehensive hub to discover, build, deploy, and share Substreams  ](https://streamingfastio.medium.com/unveiling-substreams-dev-a-comprehensive-hub-to-discover-build-deploy-and-share-substreams-2545c758200e)
 
 ## Videos
 
@@ -63,6 +67,7 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 ](https://www.youtube.com/watch?v=K-nhC2FCB5k&t=506s)
 - [Advocating for Firehose and Substreams by Matthew Darwin of Pinax](https://youtu.be/dzCbJ2fpckA)
 - [Substreams and Subgraph Quickstart by Yaro Shkvorets of Pinax](https://www.youtube.com/watch?v=sLXbMKeWKM4)
+- [How Substreams Unlock High-Speed, Composable Indexing](https://youtu.be/rGkS4D97aFE?si=4weE9rMi7AyAbpW5)
 - House of Web3
   - [Substreams Demystified: A Practitioner's Guide to High-Performance Blockchain Indexing (Soulbound Labs)](https://www.youtube.com/watch?v=fogh2D-vpzg)
 - Substreams Unleashed Demo Series
@@ -70,7 +75,13 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
   - [Substreams powered open-source NFT Hub with Mathieu Lefebvre](https://youtu.be/oIgYJxwAihs)
   - [Introducing the Substreams-Sink-Library with Charles Morin](https://youtu.be/DZ_0Mt49OLo)
   - [Substream Sink Library: Revolutionizing Data Routing with Charles Morin](https://www.youtube.com/watch?v=OIwcN8TL5d4)
-    
+  - [DappLooker: Pioneering Substreams for Cutting-Edge Blockchain Analytics](https://youtu.be/hMe99qR_cqE?si=7dx0CtcQCedNmbnE)
+  - [Spyglass Analytics Unleashing the Power of Substreams](https://youtu.be/iGEfhpLl66A?si=q2YPs7kGaasWZFtj)
+- StreamingFast Substreams Tutorials
+  - [Substreams Tutorial - Understanding Substreams ](https://youtu.be/gVqGCqKVM08?si=MwWZlKpGU2MYj2sq)
+  - [Substreams Tutorial - Sink events from an Ethereum smart contract to an SQL database](https://youtu.be/QbV3DFzKkdM?si=Ik59Trt1IM0QL8YH)
+
+
 ## Twitter
 
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
