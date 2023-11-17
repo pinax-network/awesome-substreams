@@ -95,10 +95,10 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 
 - [Alexandre Bourget](https://twitter.com/bourgetalexndre) - Co-Founder and CTO at **StreamingFast**.
 - [Matthew Darwin](https://twitter.com/matthewdarwin) - Co-Founder and CIO at **Pinax**.
-- [Brandon Ramirez](https://twitter.com/RezBrandon) - Edge & Node CEO.
+- [Brandon Ramirez](https://twitter.com/RezBrandon) - Co-Founder of Graph and prior Edge & Node CEO.
 - [Eva Beylin](https://twitter.com/evabeylin) - pilot **The Graph** foundation 👩‍🚀.
 - [Yaniv Tal](https://twitter.com/yanivgraph) - Founder & CEO **Geo**. Cofounder **The Graph**, **Edge & Node** & **House of Web3**. Building a vibrant decentralized future.
-- [Tegan Kline](https://twitter.com/theklineventure) - Co-Founder **Edge & Node**, Launched **The Graph** | Ex **Barclays** & BAML.
+- [Tegan Kline](https://twitter.com/theklineventure) - Co-Founder and CEO **Edge & Node**, Launched **The Graph** | Ex **Barclays** & BAML.
 
 ### Community Advocates
 
