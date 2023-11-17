@@ -106,10 +106,10 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 
 - [Alexandre Bourget](https://twitter.com/bourgetalexndre) - Co-Founder and CTO at **StreamingFast**.
 - [Matthew Darwin](https://twitter.com/matthewdarwin) - Co-Founder and CIO at **Pinax**.
-- [Brandon Ramirez](https://twitter.com/RezBrandon) - Edge & Node CEO.
+- [Brandon Ramirez](https://twitter.com/RezBrandon) - Co-Founder of Graph and prior Edge & Node CEO.
 - [Eva Beylin](https://twitter.com/evabeylin) - pilot **The Graph** foundation 👩‍🚀.
 - [Yaniv Tal](https://twitter.com/yanivgraph) - Founder & CEO **Geo**. Cofounder **The Graph**, **Edge & Node** & **House of Web3**. Building a vibrant decentralized future.
-- [Tegan Kline](https://twitter.com/theklineventure) - Co-Founder **Edge & Node**, Launched **The Graph** | Ex **Barclays** & BAML.
+- [Tegan Kline](https://twitter.com/theklineventure) - Co-Founder and CEO **Edge & Node**, Launched **The Graph** | Ex **Barclays** & BAML.
 
 ### Community Advocates
 
@@ -122,7 +122,7 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 - [Andy S](https://twitter.com/German_TheGraph) - Graph Advocate, involved in multiple International communities.
 - [Abhay | dapplooker.eth](https://twitter.com/abhayait) - Dapplooker is a growing indexer and active in the community.
 - [Derek | DataNexus](https://twitter.com/datanexus) - One of the most active indexers, and a stable community resource.
-- [Jim Cousins](https://twitter.com/cryptovestor) - Runs WaveFive indexer, Council member, excellent community “conscience”.
+- [Jim Cousins](https://twitter.com/cryptovestor) - Runs WaveFive indexer, excellent community “conscience”.
 - [Chidubem](https://twitter.com/chidubemw3) - Graph Advocate in Africa, produces Graph Central, active in Advocates DAO.
 - [jimxjim.eth](https://twitter.com/jim74255) - Graph Advocate in Africa, very active in the DAO.
 - [Tony Kipkemboi](https://twitter.com/tonykipkemboi) - Graph Advocate, New Jersey/Kenya.
